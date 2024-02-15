@@ -1,0 +1,2 @@
+# Enhancing-Intent-Classification-Performance-with-a-Hybrid-Data-Augmentation-Approach
+Data scarcity is a common problem in NLP tasks. According to previous studies of data augmentation(DA) methodologies, they could be implemented in different aspects, which are text-space and feature-space based method. Therefore, I was inspired to combine methods from different aspects together as a hybrid structure of DA.
